@@ -1,0 +1,9 @@
+openai
+jsonlines
+tiktoken
+regex
+requests
+langchain
+langchain_community
+sniffio
+six

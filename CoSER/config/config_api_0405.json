@@ -1,0 +1,8 @@
+{
+    "api_key": "sk-xxxxxxxxxxxxx",
+    "base_url": "https://api.yesapikey.com/v1", 
+    "base_request_url": "https://api.yesapikey.com/v1/chat/completions",
+    "embedding_model": "<optional, if you want to employ RAG and use different embedding model >", 
+    "embedding_api_key": "<optional>", 
+    "embedding_base_url": "<optional>"
+}
